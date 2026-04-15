@@ -8,3 +8,6 @@ Imprescindibles son la Puerta de Brandeburgo, el Monumento al Holocausto, el Rei
 
 ## Imagen de Berlin 
 ![alt text](image7.png)
+
+## Información de Berlin 
+Berlín, capital de Alemania, es la ciudad más poblada del país (aprox. 3.77 millones) y un centro cultural y político clave en Europa. Famosa por su historia intensa, incluyendo la Segunda Guerra Mundial y la división por el Muro (1961-1989), hoy destaca por su contraste entre arquitectura moderna, museos y una vibrante cultura alternativa.
