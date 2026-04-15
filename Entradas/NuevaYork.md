@@ -8,3 +8,22 @@ Para un viaje inolvidable a Nueva York, prioriza caminar por Central Park, cruza
 
 ## Foto de Nueva York
 ![alt text](image5.png)
+
+
+## Información 
+
+Características Principales:
+- Geografía: Situada en la desembocadura del río Hudson, está formada principalmente por islas (Manhattan, Staten Island y parte de Long Island).
+- Economía y Finanzas: Considerada la capital financiera mundial, con Wall Street y un impacto masivo en el comercio internacional.
+- Cultura y Turismo: Alberga museos de clase mundial, teatros en Broadway, y una inmensa variedad étnica (más de 200 idiomas).
+- Símbolos: La Estatua de la Libertad, el Empire State Building, el Puente de Brooklyn y el World Trade Center.
+
+Distritos:
+- Manhattan: Corazón financiero y turístico.
+- Brooklyn: Conocido por su ambiente artístico y residencial.
+- Queens: Diversidad étnica y hogar de aeropuertos internacionales.
+- El Bronx: Cuna del hip-hop y el estadio de los Yankees.
+- Staten Island: Suburbano y con vistas a la bahía. 
+
+
+La ciudad se caracteriza por un ritmo de vida rápido, un alto costo de vida, pero con una inigualable oferta de entretenimiento, gastronomía y oportunidades.
