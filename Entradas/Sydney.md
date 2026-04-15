@@ -11,3 +11,5 @@ Visita la Ópera de Sídney y el Harbour Bridge, relájate en Bondi Beach, explo
 
 ![alt text](image4.png)
 
+## Información 
+Sídney, capital de Nueva Gales del Sur y la ciudad más poblada de Australia con más de 5.6 millones de habitantes en 2025, es una metrópolis costera vibrante famosa por su puerto, la Ópera de Sídney y el Harbour Bridge. Destaca como centro financiero, gastronómico y turístico, con un clima templado y más de 100 playas, destacando Bondi y Manly.
