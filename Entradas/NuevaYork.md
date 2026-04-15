@@ -5,3 +5,6 @@ Nueva York (NYC) es la ciudad más poblada y vibrante de Estados Unidos, un cent
 
 ## Recomendación 
 Para un viaje inolvidable a Nueva York, prioriza caminar por Central Park, cruzar el Puente de Brooklyn al atardecer y subir a un mirador como el Top of the Rock para obtener las mejores vistas. Explora barrios como Greenwich Village, disfruta de un musical en Broadway y usa el metro para moverte.
+
+## Foto de Nueva York
+![alt text](image5.png)
