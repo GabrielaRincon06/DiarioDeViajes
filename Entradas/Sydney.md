@@ -6,3 +6,8 @@ Sídney es una vibrante ciudad costera que combina iconos arquitectónicos con n
 
 ## Recomendación 
 Visita la Ópera de Sídney y el Harbour Bridge, relájate en Bondi Beach, explora el histórico barrio de The Rocks y disfruta de las vistas desde el Zoológico de Taronga. La mejor época es de septiembre a noviembre y de marzo a mayo. 
+
+## Imagen de Sydney 
+
+![alt text](image4.png)
+
